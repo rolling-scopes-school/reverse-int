@@ -4,5 +4,6 @@ module.exports = function reverse (n) {
     initArr.reverse;
     let result = initArr.join('');
    
-    return Number(result);
+    // return Number(result);
+    return initArr;
 }
