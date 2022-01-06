@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Shastel/rsapp-task-template#readme",
   "dependencies": {
+    "assert": "^2.0.0",
     "chai": "^4.2.0",
     "colors": "^1.4.0",
     "mocha": "^6.2.2",
