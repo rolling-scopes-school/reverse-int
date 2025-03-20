@@ -12,7 +12,8 @@ For example:
 reverse(123); // 321
 reverse(233); // 332
 reverse(535); // 535
-reverse(95034); // 43059```
+reverse(95034); // 43059
+```
 
 You can find even more examples in `test.js`
 
